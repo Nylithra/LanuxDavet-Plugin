@@ -41,12 +41,4 @@ Plugin verileri `plugins/LanuxDavet/davet_data.yml` dosyasında saklanır:
 - Davet kodları
 - Oyuncu IP adresleri
 
-## Derleme
-
-Plugin'i derlemek için:
-
-```bash
-mvn clean package
-```
-
-Derlenen JAR dosyası `target/LanuxDavet-1.0.0.jar` konumunda olacaktır. 
+## Sürüm: 1.16x - 1.20x
