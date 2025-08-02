@@ -170,7 +170,7 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır. Detaylar için [LICENSE](
 
 **⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın! ⭐**
 
-[![GitHub stars](https://img.shields.io/github/stars/lanux/davetplugin.svg?style=social&label=Star)](https://github.com/lanux/davetplugin)
-[![GitHub forks](https://img.shields.io/github/forks/lanux/davetplugin.svg?style=social&label=Fork)](https://github.com/lanux/davetplugin/fork)
+[![GitHub stars](https://img.shields.io/github/stars/nylithra/lanuxdavetplugin.svg?style=social&label=Star)](https://github.com/Nylithra/LanuxDavet-Plugin/)
+[![GitHub forks](https://img.shields.io/github/forks/nylithra/lanuxdavetplugin.svg?style=social&label=Fork)](https://github.com/Nylithra/LanuxDavet-Plugin/fork)
 
 </div> 
