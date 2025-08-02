@@ -10,7 +10,7 @@
 ## 📥 İndirme Linkleri
 
 ### 🔥 Son Sürüm
-- **GitHub Releases:** [LanuxDavet v1.0.0](https://github.com/nylithra/lanuxdavetplugin/releases/)
+- **GitHub Releases:** [LanuxDavet v1.1.1](https://github.com/nylithra/lanuxdavetplugin/releases/)
 - **Direct Download:** [JAR Dosyası](https://github.com/Nylithra/LanuxDavet-Plugin/edit/main/releases/LanuxDavet-1.1.1.jar)
 
 ### 📋 Gereksinimler
