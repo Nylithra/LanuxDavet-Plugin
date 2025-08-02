@@ -4,15 +4,14 @@
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.16%2B-brightgreen.svg)](https://www.minecraft.net/)
 [![Spigot](https://img.shields.io/badge/Spigot-API-blue.svg)](https://www.spigotmc.org/)
-[![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)](https://github.com/lanux/davetplugin/releases)
+[![Version](https://img.shields.io/badge/Version-1.1.1-orange.svg)](https://github.com/lanux/davetplugin/releases)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📥 İndirme Linkleri
 
 ### 🔥 Son Sürüm
-- **GitHub Releases:** [LanuxDavet v1.0.0](https://github.com/nylithra/lanuxdavetplugin/releases/latest)
-- **SpigotMC:** [SpigotMC Sayfası](https://www.spigotmc.org/resources/lanuxdavet.123456/)
-- **Direct Download:** [JAR Dosyası](https://github.com/nylithra/lanuxdavetplugin/LanuxDavet-1.0.0.jar)
+- **GitHub Releases:** [LanuxDavet v1.0.0](https://github.com/nylithra/lanuxdavetplugin/releases/)
+- **Direct Download:** [JAR Dosyası]([https://github.com/nylithra/lanuxdavetplugin/LanuxDavet-1.0.0.jar](https://github.com/Nylithra/LanuxDavet-Plugin/edit/main/releases/LanuxDavet-1.1.1.jar))
 
 ### 📋 Gereksinimler
 - **Minecraft:** 1.16x - 1.20x
@@ -72,7 +71,7 @@
 ### 1. Plugin İndirme
 ```bash
 # GitHub'dan indir
-wget https://github.com/nylithra/lanuxdavetplugin/releases/LanuxDavet-1.0.0.jar
+wget https://github.com/Nylithra/LanuxDavet-Plugin/edit/main/releases/LanuxDavet-1.1.1.jar
 
 # veya manuel olarak indirin
 ```
