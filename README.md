@@ -11,7 +11,7 @@
 
 ### 🔥 Son Sürüm
 - **GitHub Releases:** [LanuxDavet v1.0.0](https://github.com/nylithra/lanuxdavetplugin/releases/)
-- **Direct Download:** [JAR Dosyası]([https://github.com/nylithra/lanuxdavetplugin/LanuxDavet-1.0.0.jar](https://github.com/Nylithra/LanuxDavet-Plugin/edit/main/releases/LanuxDavet-1.1.1.jar))
+- **Direct Download:** [JAR Dosyası](https://github.com/Nylithra/LanuxDavet-Plugin/edit/main/releases/LanuxDavet-1.1.1.jar)
 
 ### 📋 Gereksinimler
 - **Minecraft:** 1.16x - 1.20x
